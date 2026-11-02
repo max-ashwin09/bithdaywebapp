@@ -1,4 +1,4 @@
-# 👑 Bade Bhaiya 3D Birthday Webapp — Special Edition 🎂✨
+# 👑 Bade Bhaiya  Birthday Webapp — Special Edition 🎂✨
 
 Ek interactive, full 3D WebGL birthday celebration web application jo Three.js aur GSAP se banayi gayi hai, khaaskar **Bade Bhai (Bhaiya)** ke janamdin ko memorable banane ke liye.
 
